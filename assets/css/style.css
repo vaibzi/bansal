@@ -1467,3 +1467,11 @@ body {
   }
 
 }
+@media  (max-width: 990px) {
+  .video{
+    /* visibility: hidden;
+     */
+    /* width: 0px; */
+    display: none;
+  }
+}
